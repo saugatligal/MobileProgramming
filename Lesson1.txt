@@ -1,0 +1,14 @@
+My first class in mobile programming:
+Well, my first class in mobile programming went really well.Professor Crater was very friendly and he explained initial part of
+mobile programming really well.
+In my first class, i got overview about two important things.Thats is android apps development IDE (android studio)and development
+of my first app and deploying my android tablet.In class, i learnt about android version such gingerbread,jellybeans,kitkat and there
+version number.I also got idea that nowadays android studio is the main ide for android apps development.Professor gave us simple over
+view about android stuidio ide . It installation process and what can we do using android studio.I learn to develop my first app
+using android studio.
+Another thing which i learnt from this class is to get good material from different website such developer.android.com  and many other
+website which is useful for us in mobiles app development.
+And the most important part of our first class to under the android apps lifecycle.I learnt all the cycle of android apps where it
+goes and where it stops when we use our apps.I learnt about whole project folder and about its file. Most importantly androidmanifest
+file which keeps all the details of the android apps.
+So, my first class in mobile was just brilliant.I am lookin forward to learnt more things in coming period.
